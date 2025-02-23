@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 
+# Merges the Two Tables together
+
 f = pd.read_csv("data/bills.csv")
 #print(f.head(10))
 df = pd.read_csv("data/venues.csv")
