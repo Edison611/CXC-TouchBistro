@@ -9,7 +9,7 @@ input_data = pd.DataFrame([{
     "concept_BAR": True,  # Replace with actual restaurant concept
     "bill_day_of_week": 5,  # 0=Monday, ..., 6=Sunday
     "date": "2025",  # Actual date
-    "bill_hour": 20  # 6 PM
+    "bill_hour": 20  # 10 PM
 }])
 
 # # Convert date
