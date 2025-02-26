@@ -1,1 +1,2 @@
 *.csv
+*.ipynb filter=strip-notebook-output
